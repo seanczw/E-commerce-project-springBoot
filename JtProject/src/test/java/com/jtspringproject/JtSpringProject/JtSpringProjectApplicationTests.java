@@ -11,9 +11,6 @@ class JtSpringProjectApplicationTests {
 	void contextLoads() {
 	}
 	
-	@Test
-	public void shouldAnswerWithTrue(){
-		Assert.assertTrue(true);
-	}
+	
 
 }
