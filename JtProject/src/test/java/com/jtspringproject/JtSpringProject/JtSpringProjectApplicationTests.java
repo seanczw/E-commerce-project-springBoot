@@ -13,7 +13,7 @@ class JtSpringProjectApplicationTests {
 	
 	@Test
 	public void shouldAnswerWithTrue(){
-		assertTrue(true);
+		Assert.assertTrue(true);
 	}
 
 }
