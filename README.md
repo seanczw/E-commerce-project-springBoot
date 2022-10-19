@@ -83,7 +83,7 @@ ADMIN Module (http://localhost:8080/admin)
 
 
 
-- **Star++** ⭐  if you  find helpful.
+- **Star** ⭐  if you  find helpful.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 
