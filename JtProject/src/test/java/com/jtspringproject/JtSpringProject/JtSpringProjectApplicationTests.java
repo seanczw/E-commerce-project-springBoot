@@ -9,5 +9,10 @@ class JtSpringProjectApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	public void shouldAnswerWithTrue(){
+		assertTrue(true);
+	}
 
 }
